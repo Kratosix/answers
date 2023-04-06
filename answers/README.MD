@@ -13,7 +13,7 @@ So I am giving solutions to these questions same as their questions. Feel free t
 
 3. Write a C++ program which can display the following series of numbers
 
-        <h3>10 95 90 85 80 75 70 65 60 55 50</h3>
+        <code>10 95 90 85 80 75 70 65 60 55 50</code>
 
 4. Write a C++ program which allows the user to enter any number and displays its factorial
 
@@ -21,11 +21,11 @@ So I am giving solutions to these questions same as their questions. Feel free t
 
 6. Write a C++ program which can display the following fibonnacci series
 
-        <h3>0 1 1 2 3 5 8 13</h3>
+        <code>0 1 1 2 3 5 8 13</code>
 
 7. Write a C++ Program which can display the total of these numbers
 
-        <h3>1/1 +1/2 + 1/3 + 1/4 + ... 1/n </h3>
+        <code>1/1 +1/2 + 1/3 + 1/4 + ... 1/n </code>
 
 8. Write a C++ program which allows the user to enter any 2 numbers and displays their greatest common divisor.
 
